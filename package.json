@@ -12,6 +12,7 @@
     "cheerio": "^1.0.0-rc.2",
     "cheerio-req": "^1.1.4",
     "express": "^4.15.3",
+    "mongodb": "^2.2.31",
     "request": "^2.81.0",
     "tinyreq": "file:tinyreq"
   }
